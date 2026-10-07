@@ -1,0 +1,5 @@
+﻿# GitHub Sponsors / Default Funding configuration for @eminsk
+# Automatically displays the Sponsor button across ALL repositories owned by @eminsk
+
+custom:
+  - 'https://tronscan.org/#/address/TDVbEdnpgNgoAhNcn1EwXxWHiR3RKLit5P'
