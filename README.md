@@ -3,6 +3,7 @@
 Default community health, funding configuration, and project ecosystem for [@eminsk](https://github.com/eminsk).
 
 - 🌐 **Developer Portal:** https://eminsk.github.io/
+- 📢 **Telegram Channel & Chat (Avito SDK & Parser):** https://t.me/avito_sdk_pro
 - 🚀 **Avito SDK Pro (Desktop GUI `.exe` ~28 MB + Python SDK & MCP):** https://github.com/eminsk/avito-sdk/releases/latest
 - 🖥️ **Avito Parser (Playwright Desktop Edition):** https://github.com/eminsk/parser_avito/releases/latest
 - 🎁 **Free 3h Mobile Proxy Trial (works in Russia without VPN):** https://mobileproxy.rent/user.html?free&p=279117 ([Portal](https://mobileproxy.rent/?p=279117))
